@@ -1,9 +1,0 @@
-<html>
-    <body>
-       <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
-        <text x="20" y="70" font-family="Arial" font-size="72" fill="white" stroke="lime" stroke-width="4">S</text>
-      </svg>
-
-          
-    </body>
-</html>
